@@ -1,0 +1,12 @@
+#search-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0 25px 0;
+}
+
+#search-wrapper .form-control { height: 45px; }
+#search-wrapper input[type="text"] { width: 500px; }
+#search-wrapper button { width: 50px; background-color: #e6e6e6; }
+
